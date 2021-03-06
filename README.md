@@ -11,9 +11,9 @@ pip install virtualenv
 
 virtualenv venv
 
-pip install -r requirements.txt
-
 source venv/bin/activate
+
+pip install -r requirements.txt
 ```
 
 ## Plot
